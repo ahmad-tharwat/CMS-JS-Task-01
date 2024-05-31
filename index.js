@@ -48,3 +48,5 @@ contact();
 for (let index = 1; index <= 6; index++) {
         document.write("<h" + index + ">" + "Welcome to my page" + "</h" + index + ">");
 }
+
+document.write("This is spagetti work, I just hate JS");
